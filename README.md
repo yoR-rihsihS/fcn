@@ -1,5 +1,6 @@
 # FCN
 PyTorch implementation of FCN8s.
+
 Comment: Used pretrained VGG11 with Batch Normalization from torchvision as backbone.
 
 
